@@ -31,7 +31,7 @@ Hangman is a word-guessing game where the player attempts to guess a hidden word
 2. Navigate to the project directory:
 
    ```bash
-   cd hangman-game
+   cd words_game
    ```
 
 3. Install dependencies:
